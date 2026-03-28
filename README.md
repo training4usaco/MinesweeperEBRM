@@ -116,5 +116,3 @@ print(f"Game won: {won}")
 * **`ebm_train_step` & `train`:** Implementation of the training loop with contrastive divergence and dynamic noise scaling.
 
 ***
-
-Would you like me to write a quick `requirements.txt` file or an `example.py` script that you can bundle alongside this README so users can test it instantly?
